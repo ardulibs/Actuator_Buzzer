@@ -1,0 +1,15 @@
+#######################################
+# Syntax Coloring Map For ActuatorBuzzer
+####################################### 
+# Class
+#######################################
+
+ActuatorBuzzer	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+attach	KEYWORD2
+speak	KEYWORD2
+stop	KEYWORD2
