@@ -7,3 +7,7 @@ Copyright 2015 by Diego de los Reyes http://diegorys.es
 
 For use this library, you must connect a piezobuzzer
 to your Arduino Board.
+
+More info:
+
+http://fritzing.org/projects/piezobuzzer
